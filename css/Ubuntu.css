@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/Ubuntu/Ubuntu.eot);
+  src: local('Ubuntu'), url(../fonts/Ubuntu/Ubuntu.eot?#iefix) format('embedded-opentype'), url(../fonts/Ubuntu/Ubuntu.woff) format('woff'), url(../fonts/Ubuntu/Ubuntu.svg#Ubuntu) format('svg'), url(../fonts/Ubuntu/Ubuntu.ttf) format('truetype'), url(../fonts/Ubuntu/Ubuntu.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Ubuntu Bold'), local('Ubuntu-Bold'), url(../fonts/Ubuntu/Ubuntu-Bold.woff) format('woff'), url(../fonts/Ubuntu/Ubuntu-Bold.ttf) format('truetype'), url(../fonts/Ubuntu/Ubuntu-Bold.woff2) format('woff2');
+}
+
